@@ -1,4 +1,4 @@
-let bigImg = document.querySelector(".bigImg"),
+/* let bigImg = document.querySelector(".bigImg"),
   bigImage = document.getElementById("bigImage"),
   pics = document.querySelectorAll(".imgs"),
   x = document.querySelector(".fa-times"),
@@ -67,3 +67,4 @@ passField.addEventListener("keyup", () => {
     }, 2200);
   }
 });
+*/
